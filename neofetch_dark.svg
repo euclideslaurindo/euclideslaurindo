@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, monospace" width="800px" height="380px" font-size="15px">
+<style>
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+.cursor { fill: #c9d1d9; animation: blink 1s step-end infinite; }
+@keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+</style>
+<rect width="800px" height="380px" fill="#0d1117" rx="10"/>
+
+<!-- ASCII Art (Backend/Server vibe) -->
+<text x="30" y="50" fill="#c9d1d9">
+<tspan x="30" y="50">    __  ___      _        </tspan>
+<tspan x="30" y="70">   /  |/  /___ _(_)____   </tspan>
+<tspan x="30" y="90">  / /|_/ / __ `/ / __ \   </tspan>
+<tspan x="30" y="110"> / /  / / /_/ / / / / /   </tspan>
+<tspan x="30" y="130">/_/  /_/\__,_/_/_/ /_/    </tspan>
+<tspan x="30" y="150">                          </tspan>
+<tspan x="30" y="170">     Backend Node         </tspan>
+<tspan x="30" y="190">    Status: Online        </tspan>
+<tspan x="30" y="210">    Port: 8080            </tspan>
+</text>
+
+<!-- System Info -->
+<text x="250" y="50">
+<tspan class="value">euclides</tspan><tspan fill="#c9d1d9">@</tspan><tspan class="value">backend</tspan> <tspan class="cc">---------------------------------------</tspan>
+</text>
+<text x="250" y="70">
+<tspan class="key">. OS: </tspan><tspan class="cc">.......................... </tspan><tspan class="value">Windows 11, Ubuntu</tspan>
+</text>
+<text x="250" y="90">
+<tspan class="key">. IDE:</tspan><tspan class="cc"> ......................... </tspan><tspan class="value">VSCode, IntelliJ IDEA, Netbeans</tspan>
+</text>
+<text x="250" y="130">
+<tspan class="key">. Languages.Programming:</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Java, JavaScript, C++, Python</tspan>
+</text>
+<text x="250" y="150">
+<tspan class="key">. Languages.Computer:</tspan><tspan class="cc"> .......... </tspan><tspan class="value">HTML, CSS, SQL</tspan>
+</text>
+<text x="250" y="170">
+<tspan class="key">. Languages.Real:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">Português, Inglês</tspan>
+</text>
+<text x="250" y="210">
+<tspan class="key">- Interests </tspan><tspan class="cc">----------------------------------------------------</tspan>
+</text>
+<text x="250" y="230">
+<tspan class="key">. Code.Challenges:</tspan><tspan class="cc"> ............. </tspan><tspan class="value">LeetCode Solver</tspan>
+</text>
+<text x="250" y="270">
+<tspan class="key">- Contact </tspan><tspan class="cc">----------------------------------------------------</tspan>
+</text>
+<text x="250" y="290">
+<tspan class="key">. Email.Personal:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">euclides.emanuel13@gmail.com</tspan>
+</text>
+<text x="250" y="310">
+<tspan class="key">. LinkedIn:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">euclides-emanuel-laurindo</tspan>
+</text>
+<text x="250" y="340">
+<tspan class="value">euclides</tspan><tspan fill="#c9d1d9">@</tspan><tspan class="value">backend</tspan><tspan fill="#c9d1d9">:~ $ </tspan><tspan class="cursor">_</tspan>
+</text>
+</svg>
