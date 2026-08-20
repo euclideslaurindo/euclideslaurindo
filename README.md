@@ -13,7 +13,7 @@
 
 <img align="right" height="150" src="https://i.postimg.cc/tTH6Hp1B/Gemini-Generated-Image-iqek59iqek59iqek.jpg"  />
 
-### 🛠️ Minhas Tecnologias
+###  Minhas Tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
 </div>
 
-### 📬 Contato
+###  Contato
 
 <div align="left">
   <a href="mailto:euclides.emanuel13@gmail.com" target="_blank">
