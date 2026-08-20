@@ -17,7 +17,7 @@ text, tspan {white-space: pre;}
 <tspan x="30" y="110"> / /  / / /_/ / / / / /   </tspan>
 <tspan x="30" y="130">/_/  /_/\__,_/_/_/ /_/    </tspan>
 <tspan x="30" y="150">                          </tspan>
-<tspan x="30" y="170">     Backend Node         </tspan>
+<tspan x="30" y="170">     Fullstack Node         </tspan>
 <tspan x="30" y="190">    Status: Online        </tspan>
 <tspan x="30" y="210">    Port: 8080            </tspan>
 </text>
@@ -57,6 +57,6 @@ text, tspan {white-space: pre;}
 <tspan class="key">. LinkedIn:</tspan><tspan class="cc"> .................... </tspan><tspan class="value">euclides-emanuel-laurindo</tspan>
 </text>
 <text x="250" y="340">
-<tspan class="value">euclides</tspan><tspan fill="#24292e">@</tspan><tspan class="value">backend</tspan><tspan fill="#24292e">:~$ </tspan><tspan class="cursor">_</tspan>
+<tspan class="value">euclides</tspan><tspan fill="#24292e">@</tspan><tspan class="value">fullstack</tspan><tspan fill="#24292e">:~$ </tspan><tspan class="cursor">_</tspan>
 </text>
 </svg>
