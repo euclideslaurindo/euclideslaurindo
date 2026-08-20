@@ -24,7 +24,7 @@ text, tspan {white-space: pre;}
 
 <!-- System Info -->
 <text x="250" y="50">
-<tspan class="value">euclides</tspan><tspan fill="#c9d1d9">@</tspan><tspan class="value">backend</tspan> <tspan class="cc">---------------------------------------</tspan>
+<tspan class="value">euclides</tspan><tspan fill="#c9d1d9">@</tspan><tspan class="value">fullstack</tspan> <tspan class="cc">---------------------------------------</tspan>
 </text>
 <text x="250" y="70">
 <tspan class="key">. OS: </tspan><tspan class="cc">.......................... </tspan><tspan class="value">Windows 11, Ubuntu</tspan>
